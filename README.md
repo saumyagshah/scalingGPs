@@ -1,4 +1,4 @@
-# Scaling Up Gaussian Processes
+# Scaling Up Gaussian Processes and Learning Kernels from Data for Gaussian Processes
 
 **The detailed Project Report can be viewed in CS698X_ProjectReport.pdf**
 
